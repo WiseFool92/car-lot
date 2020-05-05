@@ -17,7 +17,6 @@ public class Car
     Message = message;
   }
 
-
   public bool WorthBuying(int maxPrice, int maxMiles)
   {
     bool goodPrice = Price < maxPrice;
