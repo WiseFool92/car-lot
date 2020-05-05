@@ -1,0 +1,11 @@
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\obj\Debug\netcoreapp2.2\cars.csprojAssemblyReference.cache
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\obj\Debug\netcoreapp2.2\cars.csproj.CoreCompileInputs.cache
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\obj\Debug\netcoreapp2.2\cars.AssemblyInfoInputs.cache
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\obj\Debug\netcoreapp2.2\cars.AssemblyInfo.cs
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\bin\Debug\netcoreapp2.2\cars.deps.json
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\bin\Debug\netcoreapp2.2\cars.runtimeconfig.json
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\bin\Debug\netcoreapp2.2\cars.runtimeconfig.dev.json
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\bin\Debug\netcoreapp2.2\cars.dll
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\bin\Debug\netcoreapp2.2\cars.pdb
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\obj\Debug\netcoreapp2.2\cars.dll
+C:\Users\doogi\desktop\epicodus-csharp-wk1\cars\obj\Debug\netcoreapp2.2\cars.pdb
